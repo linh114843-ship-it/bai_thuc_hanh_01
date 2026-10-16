@@ -3,4 +3,5 @@
   - 2 nghiệm phân biệt nếu delta > 0
   - 1 nghiệm kép nếu delta = 0
   - Vô nghiệm nếu delta < 0
-![Sơ đồ khối](flowchart.png)
+![Sơ đồ khối](flowchart.jpg)
+
